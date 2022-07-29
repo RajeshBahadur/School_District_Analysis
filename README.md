@@ -1,2 +1,1 @@
-# School_District_Analysis
-School District Analysis-Python
+# School_District_Analysis-Challenge
