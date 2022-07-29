@@ -1,0 +1,27 @@
+
+
+A Written Report for the School District Analysis
+# Purpose of the analysis
+The district school board would like to understand how the various types of school performed during the academic year, they wanted to understand if there is any corelation between budget 
+expensed per student and scores received in math and reading, in addition to that, they wanted to understand how the score changes if we remove scores of Thomas High School as they suspect 
+academic dishonesty at Thomas high school.
+
+# Results of the analysis
+	# How the district summary affected after removal of Thomas High School students data from the data frame
+	% overall passing with Thomas High School students was-65.2%
+
+	% overall passing without Thomas High School students was-64.9%
+
+The overall passing % after removing 9th graders at Thomas High School reduced to 64.9% from 65.2%
+
+#How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+ After replacing nitnh graders math and reading scores, the ranking on top 5 school has changed, Wilson High school which was on number 5th is now moved up to number 4th place
+and Thomas High School ranking has moved down from 4th rank to 5th rank.
+
+#How does replacing the ninth-grade scores affect the following:
+	Math and reading scores by grade
+	Scores by school spending
+	Scores by school size
+	Scores by school type
+
+There is no impact of change in ninth-garde scores based on grades,spending, school size and type. 
